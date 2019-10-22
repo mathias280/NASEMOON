@@ -1,9 +1,4 @@
-<html lang="en">
 
-<head>
-</head>
-
-<body>
     <!-- Navigation Bar -->
     
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
